@@ -6,7 +6,7 @@ A simple FAQ accordion component built with **React**. This project was created 
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://<your-github-username>.github.io/react-faq-accordion/)
+[View Live Demo](https://thanziapatelraheem.github.io/react-faq-accordion/)
 
 ---
 
